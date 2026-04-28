@@ -1,0 +1,14 @@
+1.What AI tool did you use (ChatGPT or Claude)?
+   I used ChatGPT because it's the AI I know and use for personal entertainment. I did try to use Claude but the code it was giving me was very different than what I have learned.
+
+2.What was your initial prompt? (Copy and paste it)
+   Create an 'About Me' section for a portfolio website using HTML and CSS only (no JavaScript and keep the code simple and a separate file for html and css). It should include: - A profile photo on the left (use a placeholder image for now) - My name as a heading - A short bio paragraph - A list of 4 skills displayed as tags/badges- Use "lorem ipsum" instead of my information and I can enter that in later. Make it responsive - should stack vertically on mobile. Use a classic modern style design with a colorful scheme. Add comments explaining the CSS.
+
+3.How many total prompts did you use? (Approximately)
+  I used around 3-4 prompts. Additional prompts were for it to make the buttons feel clickable and I gave it my color palette. 
+  
+4.What customizations did you make to the design?
+  I changed the color pallete and fonts. I also changed pixel sizes to my liking.
+
+5.What's one thing the AI code taught you about HTML or CSS?
+  There is a lot of ways to write code. For example, the way that Claude did it seemed so experienced compared to the simple code I have been doing throughout the semester.
